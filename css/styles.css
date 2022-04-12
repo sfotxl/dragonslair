@@ -1,0 +1,17 @@
+#banner {
+    background-color: maroon;
+    color: white;
+    text-align: center;
+}
+
+body {
+    color: white;
+}
+
+hr {
+    background-color: white;
+}
+
+.navbar {
+    border: solid 1px white;
+}
