@@ -15,3 +15,8 @@ hr {
 .navbar {
     border: solid 1px white;
 }
+
+#largeDragon {
+    font-size: 900%;
+    color: red;
+}
