@@ -16,7 +16,17 @@ hr {
     border: solid 1px white;
 }
 
-#largeDragon {
-    font-size: 900%;
+
+.fa-dragon {
+    font-size: 120%;
+    color: red;
+}
+
+.carousel-caption {
+    background-color: rgba(0,0,0,0.4);
+}
+
+#iconic {
+    font-size: 40px;
     color: red;
 }
