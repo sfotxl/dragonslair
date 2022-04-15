@@ -12,9 +12,9 @@ hr {
     background-color: white;
 }
 
-.navbar {
+/*--.navbar {
     border: solid 1px white;
-}
+}--*/
 
 
 .fa-dragon {
@@ -29,4 +29,26 @@ hr {
 #iconic {
     font-size: 40px;
     color: red;
+}
+
+.breadcrumb {
+    background-color: rgba(0,0,0,0.2)
+}
+
+.jerky {
+    border: solid 1px white;
+}
+
+.bg-shadow {
+    background-color: rgba(255,255,253,0.4)
+}
+
+/*--.site-footer {
+    background-color: rgba(255,255,254,0.1)
+}--*/
+
+.socials {
+    color: maroon;
+    background-color: blue;
+    z-index: 100;
 }
