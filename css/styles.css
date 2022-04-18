@@ -2,6 +2,7 @@
     background-color: maroon;
     color: white;
     text-align: center;
+    font-size: 14px;
 }
 
 body {
@@ -13,7 +14,7 @@ hr {
 }
 
 /*--.navbar {
-    border: solid 1px white;
+    background-color: rgba(255,255,253,0.4);
 }--*/
 
 
@@ -31,6 +32,18 @@ hr {
     color: red;
 }
 
+#iconic:link {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:link {
+    color:red;
+}
+
 .breadcrumb {
     background-color: rgba(0,0,0,0.2)
 }
@@ -40,11 +53,11 @@ hr {
 }
 
 .bg-shadow {
-    background-color: rgba(255,255,253,0.4)
+    background-color: rgba(255,255,253,0.4);
 }
 
 /*--.site-footer {
-    background-color: rgba(255,255,254,0.1)
+    background-color: rgba(255,255,254,0.1);
 }--*/
 
 .socials {
