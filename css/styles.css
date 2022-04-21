@@ -15,7 +15,17 @@ hr {
 
 /*--.navbar {
     background-color: rgba(255,255,253,0.4);
-}--*/
+}
+
+.navbar {
+    background-color: black;
+}
+--*/
+.navbar:hover{
+    background-color: maroon;
+    color: yellow;
+    transition: 1s;
+}
 
 
 .fa-dragon {
@@ -40,7 +50,11 @@ a:hover {
     color: yellow;
 }
 
-a:link {
+a:visited{
+    color: yellow;
+}
+
+a {
     color:red;
 }
 
