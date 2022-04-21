@@ -16,17 +16,34 @@ hr {
 /*--.navbar {
     background-color: rgba(255,255,253,0.4);
 }
+--*/
 
 .navbar {
-    background-color: black;
+    background-color: rgba(0,0,0,0.01);
 }
---*/
+
+
 .navbar:hover{
-    background-color: maroon;
-    color: yellow;
+    background-color: rgb(128, 17, 0);
+    color: white;
     transition: 1s;
 }
 
+#firstCard {
+    background-color: rgb(128, 17, 0);
+}
+
+#secondCard {
+    background-color: #D73502;
+}
+
+#thirdCard {
+    background-color: #FAC000;
+}
+
+#fourthCard {
+    background-color: #FF7500;
+}
 
 .fa-dragon {
     font-size: 120%;
@@ -40,6 +57,11 @@ hr {
 #iconic {
     font-size: 40px;
     color: red;
+}
+
+#iconicText {
+    font-size: 24px;
+    color: white;
 }
 
 #iconic:link {
