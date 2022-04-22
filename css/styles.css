@@ -101,3 +101,7 @@ a {
     background-color: blue;
     z-index: 100;
 }
+
+img {
+    border: solid 1px white;
+}
