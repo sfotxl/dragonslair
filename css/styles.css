@@ -24,7 +24,7 @@ hr {
 
 
 .navbar:hover{
-    background-color: rgb(128, 17, 0);
+    background-color: #343a40;
     color: white;
     transition: 1s;
 }
@@ -104,4 +104,8 @@ a {
 
 img {
     border: solid 1px white;
+}
+
+.dropdown-menu {
+    background-color: rgba(52, 58, 64,0.7);
 }
