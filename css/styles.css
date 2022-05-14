@@ -9,6 +9,10 @@ body {
     color: white;
 }
 
+h1, h2, h3, h4, h5, #iconicText {
+    font-family: 'Aladin', cursive;
+}
+
 hr {
     background-color: white;
 }
